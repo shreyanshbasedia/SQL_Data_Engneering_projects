@@ -1,6 +1,6 @@
 
 # [EDA](/1_EDA/) Exploratory Data Analysis W/ SQL: Job market Analysis
-![project 1 overview](1_1_Project1_EDA.png)
+![project 1 overview](1_EDA/1_1_Project1_EDA.png)
 A SQL-based project exploring the data engineering job landscape using real-world job posting data. **This project demonstrates my ability to design efficient analytical queries, model relational data, and extract actionable insights for career and business decisions.**
 ## 🚀 Executive Summary
 
